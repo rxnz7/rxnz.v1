@@ -1,0 +1,83 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.github-button {
+  text-decoration: none;
+  color: #5202ff;
+}
+
+span {
+  color: #0000ff;
+}
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #fff;
+	padding: 14px;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav a {
+	margin-right: 30px;
+  text-decoration: none;
+  color: Black;
+  font-size: 15px;
+}
+
+.logo a{
+  font-weight: bold;
+  font-weight: 700;
+}
+
+.nav-left a:first-child {
+	font-weight: bold;
+}
+
+.main-content {
+	padding: 40px 70px;
+	background-color: #202020;
+  color: White;
+}
+
+.container__1 {
+	max-width: 700px;
+}
+
+.container__1 h1 {
+	margin-bottom: 0px;
+  font-size: 40px;
+}
+
+.content {
+  padding: 40px 70px;
+
+}
+
+
+footer {
+	color: black;
+	padding: 20px;
+	text-align: center;
+}
+
+footer a {
+	color: Black;
+	text-decoration: underline;
+}
+
+footer a:hover {
+	color: #ddd;
+}
+
